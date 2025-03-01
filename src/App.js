@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Pankaj is Learning React action workflow for AWS
         </a>
       </header>
     </div>
